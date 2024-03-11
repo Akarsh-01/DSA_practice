@@ -1,5 +1,4 @@
 Step 1: Learn the basics\
-DSA_practice/Step1/\
 \
 1.1_1: Find character case\
 1.1_2: Data Type\
