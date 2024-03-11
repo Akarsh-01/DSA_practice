@@ -1,3 +1,4 @@
+Step 1: Learn the basics\
 Practice\
 \
 1.1_1: Find character case\
