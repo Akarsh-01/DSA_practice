@@ -1,9 +1,12 @@
 Step 1: Learn the basics\
 \
-1.1_1: Find character case\
-1.1_2: Data Type\
-1.1_3: if-else (Decision Making)\
-1.1_4: Switch Case statement\
-1.1_6: Nth Fibonacci Number\
-1.1_7: Sum of even & odd\
-1.4_1: Count Digits 
+1.1\
+1: Find character case\
+2: Data Type\
+3: if-else (Decision Making)\
+4: Switch Case statement\
+6: Nth Fibonacci Number\
+7: Sum of even & odd\
+\
+1.4\
+1: Count Digits 
