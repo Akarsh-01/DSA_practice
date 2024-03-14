@@ -5,4 +5,5 @@ Step 1: Learn the basics\
 1.1_3: if-else (Decision Making)\
 1.1_4: Switch Case statement\
 1.1_6: Nth Fibonacci Number\
-1.1_7: Sum of even & odd
+1.1_7: Sum of even & odd\
+1.4_1: Count Digits 
