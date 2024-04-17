@@ -12,3 +12,4 @@ Step 1: Learn the basics\
 1: Count Digits 
 3: Palindrome number
 4: GCD or HCF
+5: Check Armstrong
