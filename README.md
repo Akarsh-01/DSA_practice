@@ -9,7 +9,8 @@ Step 1: Learn the basics\
 7: Sum of even & odd\
 \
 1.4\
-1: Count Digits 
-3: Palindrome number
-4: GCD or HCF
-5: Check Armstrong
+1: Count Digits\
+3: Palindrome number\
+4: GCD or HCF\
+5: Check Armstrong\
+6: Sum of all divisors
