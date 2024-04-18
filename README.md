@@ -13,5 +13,5 @@ Step 1: Learn the basics\
 3: Palindrome number\
 4: GCD or HCF\
 5: Check Armstrong\
-6: Sum of all divisors
+6: Sum of all divisors\
 7: Check Prime
