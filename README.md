@@ -20,4 +20,5 @@ Step 1: Learn the basics\
 1: 1 to N without loop\
 2: Print n times\
 3: 1 to N without loop (same)\
-4: N to 1 without loop
+4: N to 1 without loop\
+5: Sum of First N Numbers
