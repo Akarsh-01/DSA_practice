@@ -17,4 +17,5 @@ Step 1: Learn the basics\
 7: Check Prime\
 \
 1.5\
-1: 1 to N without loop
+1: 1 to N without loop\
+2: Print n times
