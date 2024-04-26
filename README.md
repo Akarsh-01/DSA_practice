@@ -14,4 +14,7 @@ Step 1: Learn the basics\
 4: GCD or HCF\
 5: Check Armstrong\
 6: Sum of all divisors\
-7: Check Prime
+7: Check Prime\
+\
+1.5\
+1: 1 to N without loop
