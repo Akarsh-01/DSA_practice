@@ -23,4 +23,5 @@ Step 1: Learn the basics\
 4: N to 1 without loop\
 5: Sum of First N Numbers\
 6: Factorial Numbers Not Greater Than N\
-7: Reverse an Array
+7: Reverse an Array\
+8: Valid Palindrome
